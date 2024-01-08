@@ -1,0 +1,7 @@
+C:\Users\LENOVO\OneDrive\Documents\C# Project\Student_Teacher\Student_Teacher\bin\Debug\Student_Teacher.exe.config
+C:\Users\LENOVO\OneDrive\Documents\C# Project\Student_Teacher\Student_Teacher\bin\Debug\Student_Teacher.exe
+C:\Users\LENOVO\OneDrive\Documents\C# Project\Student_Teacher\Student_Teacher\bin\Debug\Student_Teacher.pdb
+C:\Users\LENOVO\OneDrive\Documents\C# Project\Student_Teacher\Student_Teacher\obj\Debug\Student_Teacher.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Documents\C# Project\Student_Teacher\Student_Teacher\obj\Debug\Student_Teacher.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Documents\C# Project\Student_Teacher\Student_Teacher\obj\Debug\Student_Teacher.exe
+C:\Users\LENOVO\OneDrive\Documents\C# Project\Student_Teacher\Student_Teacher\obj\Debug\Student_Teacher.pdb
